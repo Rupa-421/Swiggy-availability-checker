@@ -2,13 +2,13 @@
 
 Check if swiggy is available in the area you want.
 
-###==>This code shows the availability of SWIGGY in any region.
+### ==>This code shows the availability of SWIGGY in any region.
 
 
-###==>Swiggy is India's largest and most valuable online food ordering and delivery platform. 
+### ==>Swiggy is India's largest and most valuable online food ordering and delivery platform. 
 
 
-###==>To know availability of swiggy in any area enter the name of that city.😋
+### ==>To know availability of swiggy in any area enter the name of that city.😋
 
 
 ### (((•••••AVAILABLE ONLY IN INDIA😎••••••)))
@@ -18,7 +18,7 @@ example: delhi,mumbai,surat,hyderabad,ahmedabad.etc.
 
 
 '''
-####What i have done:
+#### What i have done:
 
 I used requests module to open the file of swiggy website by using link of that website.
 
