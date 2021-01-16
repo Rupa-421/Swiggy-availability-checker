@@ -8,10 +8,10 @@ Check if swiggy is available in the area you want.
 ### ==>Swiggy is India's largest and most valuable online food ordering and delivery platform. 
 
 
-### ==>To know availability of swiggy in any area enter the name of that city.😋
+### ==>To know availability of swiggy in any area enter the name of that city.:yum:
 
 
-### (((•••••AVAILABLE ONLY IN INDIA😎••••••)))
+### (((•••••AVAILABLE ONLY IN INDIA••••••)))
 
 '''
 example: delhi,mumbai,surat,hyderabad,ahmedabad.etc.
