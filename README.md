@@ -18,6 +18,11 @@ Check if swiggy is available in the area you want.
 
 *example: delhi,mumbai,surat,hyderabad,ahmedabad.etc.*
 
+### Prerequisites:
+*Before you continue,ensure you have the following requirements:
+
+* You have python installed.
+* You have a basic understanding of request module.
 
 ### What i have done:
 
