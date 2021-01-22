@@ -33,3 +33,7 @@ Check if swiggy is available in the area you want.
 * Then by using that data i wrote a logic that will check whether the entered city contains swiggy availability or not.
 
 * Now you can run my code and check whether swiggy is available in the city you want.
+
+Drop a pull request if you found a new feature :sparkles:
+
+Don't forget to star :star: if you like it 
